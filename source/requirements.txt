@@ -1,0 +1,10 @@
+numpy>=1.19.0
+torch>=2.0.0
+torchaudio>=2.0.0
+demucs>=4.0.0
+opencv-python>=4.7.0
+librosa>=0.10.0
+scipy>=1.10.0
+mediapipe>=0.10.0
+pyrubberband>=0.3.0
+soundfile>=0.12.0
