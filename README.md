@@ -4,14 +4,7 @@ Music remixing is increasingly being commercialized through the integration of A
 
 ### Demo Video
 
-<iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube-nocookie.com/embed/GxLz06DpePw" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+[Watch Demo Video](https://youtu.be/GxLz06DpePw)
 
 ### Design
 
