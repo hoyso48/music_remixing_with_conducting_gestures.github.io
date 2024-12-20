@@ -12,11 +12,11 @@ Music remixing is increasingly being commercialized through the integration of A
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxLz06DpePw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Header 1
+# Design
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The screen is divided into appropriate regions, and the separated stems are mapped to these regions. Users can manipulate individual stems through conducting gestures in these regions.
 
-## Header 2
+## Gestures
 
 > This is a blockquote following a header.
 >
@@ -100,7 +100,10 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Play Gesture](assets/images/play_gesture.png)
+![Mute Gesture](assets/images/mute_gesture.png)
+![Solo Gesture](assets/images/solo_gesture.png)
+![Conducting Gesture](assets/images/conducting_gesture.png)
 
 
 ### Definition lists can be used with HTML syntax.
