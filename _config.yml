@@ -1,6 +1,10 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Music Remixing
+description: Music Remixing with Conducting Gestures
 theme: jekyll-theme-cayman
-url: "https://music_remixing_with_conducting_gestures.github.io"
+
+# 중요: baseurl과 url 설정
+baseurl: "/music_remixing_with_conducting_gestures.github.io"  # repository 이름
+url: "https://hoyso48.github.io"  # username을 본인 GitHub 사용자명으로 변경
+
+# GitHub Pages 설정
+repository: hoyso48/music_remixing_with_conducting_gestures.github.io
