@@ -22,6 +22,16 @@ The screen is divided into appropriate regions, and the separated stems are mapp
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+### How to use
+
+```
+git clone https://github.com/hoyso48/music_remixing_with_conducting_gestures.github.io.git
+cd source
+pip install -r requirements.txt
+python main.py
+```
+All you need to do is run the above commands and specify the audio file path(mp3, wav, flac) you want to remix. It will takes a few minutes to preprocess the audio file when you load the audio file for the first time.
+
 ### Header 3
 
 ```js
@@ -100,10 +110,10 @@ end
 
 ### Large image
 
-![Play Gesture](assets/images/play_gesture.png)
-![Mute Gesture](assets/images/mute_gesture.png)
-![Solo Gesture](assets/images/solo_gesture.png)
-![Conducting Gesture](assets/images/conducting_gesture.png)
+![Play Gesture](assets/css/images/play_gesture.png)
+![Mute Gesture](assets/css/images/mute_gesture.png)
+![Solo Gesture](assets/css/images/solo_gesture.png)
+![Conducting Gesture](assets/css/images/conducting_gesture.png)
 
 
 ### Definition lists can be used with HTML syntax.
