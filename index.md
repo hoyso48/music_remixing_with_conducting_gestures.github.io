@@ -31,7 +31,7 @@ The screen is divided into appropriate regions, and the separated stems are mapp
 
 ```
 git clone https://github.com/hoyso48/music_remixing_with_conducting_gestures.github.io.git
-cd src
+cd music_remixing_with_conducting_gestures.github.io/src
 pip install -r requirements.txt
 python main.py
 ```
