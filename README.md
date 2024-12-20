@@ -1,6 +1,4 @@
----
-layout: default
----
+# Music Remixing with Conducting Gestures
 
 ### Project Overview
 
