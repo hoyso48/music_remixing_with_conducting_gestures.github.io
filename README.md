@@ -10,7 +10,7 @@ Music remixing is increasingly being commercialized through the integration of A
     src="https://www.youtube-nocookie.com/embed/GxLz06DpePw" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>ㅉㅉㅉㅉ
+    allowfullscreen>
 </iframe>
 
 ### Design

@@ -4,8 +4,6 @@ title: CTP431 Final Project
 description: Music Remixing with Conducting Gestures
 ---
 
-### Project Overview
-
 Music remixing is increasingly being commercialized through the integration of AI-based **source separation** technologies. The advantage of music remixing using source separation is that it allows users to creatively recompose any music they want, even if they are not the original composer or do not possess the project's files.
 
 ### Demo Video
