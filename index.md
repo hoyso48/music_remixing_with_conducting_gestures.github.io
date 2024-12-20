@@ -1,5 +1,7 @@
 ---
 layout: default
+title: CTP431 Final Project
+description: Music Remixing with Conducting Gestures
 ---
 
 ### Project Overview
@@ -8,7 +10,14 @@ Music remixing is increasingly being commercialized through the integration of A
 
 ### Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxLz06DpePw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube-nocookie.com/embed/GxLz06DpePw" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 ### Design
 

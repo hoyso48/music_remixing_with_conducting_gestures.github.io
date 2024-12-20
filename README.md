@@ -1,12 +1,17 @@
-# Music Remixing with Conducting Gestures
-
 ### Project Overview
 
 Music remixing is increasingly being commercialized through the integration of AI-based **source separation** technologies. The advantage of music remixing using source separation is that it allows users to creatively recompose any music they want, even if they are not the original composer or do not possess the project's files.
 
 ### Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxLz06DpePw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube-nocookie.com/embed/GxLz06DpePw" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>ㅉㅉㅉㅉ
+</iframe>
 
 ### Design
 
